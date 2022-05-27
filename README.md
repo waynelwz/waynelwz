@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,17 +49,13 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 9 mins        ██████████████████████░░░   88.64% 
-SCSS                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 57 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 57 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -72,5 +68,5 @@ TypeScript               1 repo              ███████████�
 
 
 
- Last Updated on 26/05/2022 01:06:50 UTC
+ Last Updated on 27/05/2022 01:02:03 UTC
 <!--END_SECTION:waka-->
