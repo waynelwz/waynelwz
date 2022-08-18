@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **I'm an Early 🐤** 
 
@@ -73,5 +73,5 @@ Java                     1 repo              ████████░░░�
 
 
 
- Last Updated on 17/08/2022 01:17:40 UTC
+ Last Updated on 18/08/2022 01:18:58 UTC
 <!--END_SECTION:waka-->
