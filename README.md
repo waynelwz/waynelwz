@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,5 +71,5 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 28/05/2023 00:10:46 UTC
+ Last Updated on 29/05/2023 00:09:43 UTC
 <!--END_SECTION:waka-->
