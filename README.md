@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C207%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -73,5 +71,5 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2024 00:26:28 UTC
+ Last Updated on 09/09/2024 00:26:01 UTC
 <!--END_SECTION:waka-->
