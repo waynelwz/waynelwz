@@ -45,16 +45,13 @@ Sunday                   52 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     2 hrs 32 mins       ████████████████████░░░░░   78.54 % 
-Bash                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs               ███████████████████████░░   93.09 % 
-Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,5 +67,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:03:25 UTC
+ Last Updated on 25/07/2026 03:06:08 UTC
 <!--END_SECTION:waka-->
