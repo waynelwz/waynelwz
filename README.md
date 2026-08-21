@@ -25,21 +25,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-🌆 Daytime                558 commits         █████████████░░░░░░░░░░░░   50.64 % 
-🌃 Evening                362 commits         ████████░░░░░░░░░░░░░░░░░   32.85 % 
+🌞 Morning                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+🌆 Daytime                559 commits         █████████████░░░░░░░░░░░░   50.59 % 
+🌃 Evening                364 commits         ████████░░░░░░░░░░░░░░░░░   32.94 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Tuesday                  212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Wednesday                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Thursday                 267 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Friday                   227 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Saturday                 93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Sunday                   52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Tuesday                  212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Wednesday                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Thursday                 267 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Friday                   229 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Sunday                   52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 
 
@@ -49,42 +49,42 @@ Sunday                   52 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   35.22 % 
-Bash                     55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-TypeScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Go                       1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.17 % 
+Bash                     55 mins             ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+TypeScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████░░░░   82.22 % 
-Codex Vscode             38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+VS Code                  2 hrs 37 mins       ████████████████████░░░░░   80.22 % 
+Codex Vscode             38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
 
 💻 Operating System: 
-Mac                      3 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 26 mins (66.96%)
+⏱ AI Coding Time: 2 hrs 7 mins (64.63%)
 
-✍️ 561 lines written by AI, 8 lines written by hand (98.59% AI-written)
+✍️ 204 lines written by AI, 9 lines written by hand (95.77% AI-written)
 
-🔤 7,800,163 Input Tokens, 229,481 Output Tokens
+🔤 5,511,498 Input Tokens, 200,034 Output Tokens
 
-💵 $62.89 Estimated AI Cost This Week
+💵 $50.87 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 21 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
-GPT                      701 lines           █████████████████████████   100.00 % 
+GPT                      339 lines           █████████████████████████   100.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Kimi                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.59% of written lines came from AI
-📚 Verbose Prompter — average 2,852 characters per prompt
+🤖 AI-Driven — 95.77% of written lines came from AI
+📚 Verbose Prompter — average 3,312 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.72% of changed lines were hand-edited
+🚀 High AI Trust — 16.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,5 +100,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 02:35:28 UTC
+ Last Updated on 21/08/2026 02:41:05 UTC
 <!--END_SECTION:waka-->
